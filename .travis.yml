@@ -1,0 +1,3 @@
+version: ~> 1.0
+
+import: dword-design/travis-config:dist/index.yml@master
