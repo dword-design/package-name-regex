@@ -1,6 +1,6 @@
 {
   "name": "package-name-regex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides a regex that can be used to test if a string is a valid NPM package name.",
   "main": "dist/index.js",
   "repository": "dword-design/package-name-regex",
@@ -8,6 +8,13 @@
   "license": "MIT",
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "package",
+    "name",
+    "regex",
+    "validate",
+    "test"
   ],
   "scripts": {
     "prepare": "base-node prepare",
