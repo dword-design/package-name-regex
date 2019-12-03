@@ -18,7 +18,7 @@
 
 <!-- DESCRIPTION/ -->
 
-undefined
+Provides a regex that can be used to test if a string is a valid NPM package name.
 
 <!-- /DESCRIPTION -->
 
@@ -34,6 +34,7 @@ undefined
 </ul>
 
 <!-- /INSTALL -->
+
 
 <h2>Usage</h2>
 
