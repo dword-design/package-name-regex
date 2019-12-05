@@ -2,22 +2,28 @@
   "name": "package-name-regex",
   "version": "1.0.2",
   "description": "Provides a regex that can be used to test if a string is a valid NPM package name.",
-  "main": "dist/index.js",
+  "keywords": [
+    "name",
+    "package",
+    "regex",
+    "test",
+    "validate"
+  ],
+  "bugs": {
+    "url": "https://github.com/dword-design/package-name-regex/issues"
+  },
   "repository": "dword-design/package-name-regex",
-  "author": "dword <sebastianlandw@gmail.com>",
   "license": "MIT",
+  "author": "dword <sebastianlandw@gmail.com>",
+  "contributors": [
+    "dword-design (http://www.dword-design.de)"
+  ],
   "files": [
     "dist"
   ],
-  "keywords": [
-    "package",
-    "name",
-    "regex",
-    "validate",
-    "test"
-  ],
+  "main": "dist/index.js",
   "scripts": {
-    "prepare": "base-node prepare",
+    "prepublishOnly": "base-node build",
     "start": "base-node start",
     "test": "base-node test"
   },
@@ -25,11 +31,5 @@
     "@dword-design/base-node": "^1.0.3",
     "expect": "^24.9.0"
   },
-  "maintainers": [],
-  "contributors": [
-    "dword-design (http://www.dword-design.de)"
-  ],
-  "bugs": {
-    "url": "https://github.com/dword-design/package-name-regex/issues"
-  }
+  "maintainers": []
 }
