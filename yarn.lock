@@ -760,14 +760,7 @@
     fs-extra "^8.1.0"
     get-package-name "^1.0.0"
 
-"@dword-design/base-node@^1.0.3":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@dword-design/base-node/-/base-node-1.2.0.tgz#dd5ea44d49a1e163f258f992d508fd166e32627d"
-  integrity sha512-JWP228WJEqxSkRR4gk+gjKnvNt33b+e0rV9UcbQX8tbJuIIQipkwM77hQt1d3ttlZWA1tpvW1ByDPmeEpMyU2w==
-  dependencies:
-    "@dword-design/base" "^3.0.0"
-
-"@dword-design/base@^3.0.0":
+"@dword-design/base@^3.4.4":
   version "3.4.4"
   resolved "https://registry.yarnpkg.com/@dword-design/base/-/base-3.4.4.tgz#ff88ceb46e37e98d1ca94a74ed07d4a83632e4f5"
   integrity sha512-im1AGF/GKIpVSyS78Cf8pRDZFfcKaEtIL+t6O4pT50iZrZG3krrSVux8Hkw9sCS3qXweiv9ZLttft5dgJgab3g==
@@ -1367,7 +1360,6 @@ chardet@^0.7.0:
 
 chdir@dword-design/node-chdir#fork:
   version "0.0.0"
-  uid "55004473579e2b8d293ced5410af5948793971b6"
   resolved "https://codeload.github.com/dword-design/node-chdir/tar.gz/55004473579e2b8d293ced5410af5948793971b6"
 
 child-process-promise@^2.2.1:
@@ -1731,7 +1723,6 @@ delegates@^1.0.0:
 
 depcheck@dword-design/depcheck#fork:
   version "0.0.1"
-  uid c26892d97de67e476566ece801a046dbd718f21b
   resolved "https://codeload.github.com/dword-design/depcheck/tar.gz/c26892d97de67e476566ece801a046dbd718f21b"
   dependencies:
     "@babel/parser" "^7.6.4"
