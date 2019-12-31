@@ -9,12 +9,9 @@
     "test",
     "validate"
   ],
-  "bugs": {
-    "url": "https://github.com/dword-design/package-name-regex/issues"
-  },
   "repository": "dword-design/package-name-regex",
   "license": "MIT",
-  "author": "dword <sebastianlandw@gmail.com>",
+  "author": "Sebastian Landwehr <info@dword-design.de>",
   "files": [
     "dist"
   ],
@@ -27,10 +24,5 @@
   "devDependencies": {
     "@dword-design/base": "^4.0.0",
     "expect": "^24.9.0"
-  },
-  "contributors": [
-    "dword-design (http://www.dword-design.de)",
-    "Renovate Bot (http://renovatebot.com)"
-  ],
-  "maintainers": []
+  }
 }

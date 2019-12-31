@@ -30,7 +30,8 @@ Provides a regex that can be used to test if a string is a valid NPM package nam
 <a href="https://npmjs.com" title="npm is a package manager for javascript"><h3>npm</h3></a>
 <ul>
 <li>Install: <code>npm install --save package-name-regex</code></li>
-<li>Require: <code>require('package-name-regex')</code></li>
+<li>Import: <code>import * as pkg from ('package-name-regex')</code></li>
+<li>Require: <code>const pkg = require('package-name-regex')</code></li>
 </ul>
 
 <!-- /INSTALL -->
@@ -56,7 +57,7 @@ packageNameRegex.test('@npm-zors/money!time.js') // false
 
 Unless stated otherwise all works are:
 
-<ul><li>Copyright &copy; dword</li></ul>
+<ul><li>Copyright &copy; Sebastian Landwehr</li></ul>
 
 and licensed under:
 
