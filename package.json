@@ -23,7 +23,6 @@
     "test": "base test"
   },
   "devDependencies": {
-    "@dword-design/base": "^5.0.0",
-    "expect": "^24.9.0"
+    "@dword-design/base": "^5.0.0"
   }
 }
