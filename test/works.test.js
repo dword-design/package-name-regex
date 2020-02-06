@@ -1,5 +1,4 @@
 import regex from 'package-name-regex'
-import expect from 'expect'
 
 export default () => {
   // taken from https://github.com/npm/validate-npm-package-name
