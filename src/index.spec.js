@@ -21,6 +21,11 @@ export default {
     expect(regex.test('s/l/a/s/h/e/s')).toBeFalsy()
     expect(regex.test('CAPITAL-LETTERS')).toBeFalsy()
     expect(regex.test('with~a~tilde')).toBeFalsy()
+    expect(regex.test('with\'quotes\'')).toBeFalsy()
+    expect(regex.test('with-bangs!!!')).toBeFalsy()
+    expect(regex.test('with-the(char')).toBeFalsy()
+    expect(regex.test('with-the)char')).toBeFalsy()
+    expect(regex.test('with-the*char')).toBeFalsy()
     const getStringWithMoreThan214Characters = () => Array(215).fill(1).map(i => i).join('')
     expect(regex.test(getStringWithMoreThan214Characters())).toBeFalsy()
   },
