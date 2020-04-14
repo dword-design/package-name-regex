@@ -20,6 +20,7 @@ export default {
     expect(regex.test('trailing-space ')).toBeFalsy()
     expect(regex.test('s/l/a/s/h/e/s')).toBeFalsy()
     expect(regex.test('CAPITAL-LETTERS')).toBeFalsy()
+    expect(regex.test('with~a~tilde')).toBeFalsy()
     const getStringWithMoreThan214Characters = () => Array(215).fill(1).map(i => i).join('')
     expect(regex.test(getStringWithMoreThan214Characters())).toBeFalsy()
   },
