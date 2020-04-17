@@ -1,6 +1,16 @@
 import regex from '.'
 
+const getStringWithMoreThan214Characters = () => Array(215).fill(1).map(i => i).join('')
+
 export default {
+  exec: () => {
+    expect(regex.exec('some-package')).toContain('some-package')
+    expect(regex.lastIndex).toEqual(0)
+    expect(regex.exec('crazy!')).toEqual(null)
+    expect(regex.lastIndex).toEqual(0)
+    expect(regex.exec(getStringWithMoreThan214Characters())).toEqual(null)
+    expect(regex.lastIndex).toEqual(0)
+  },
   test: () => {
     // taken from https://github.com/npm/validate-npm-package-name
     expect(regex.test('some-package')).toBeTruthy()
@@ -26,7 +36,6 @@ export default {
     expect(regex.test('with-the(char')).toBeFalsy()
     expect(regex.test('with-the)char')).toBeFalsy()
     expect(regex.test('with-the*char')).toBeFalsy()
-    const getStringWithMoreThan214Characters = () => Array(215).fill(1).map(i => i).join('')
     expect(regex.test(getStringWithMoreThan214Characters())).toBeFalsy()
   },
 }

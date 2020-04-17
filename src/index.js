@@ -5,6 +5,14 @@ class PackageNameRegExp extends RegExp {
     super(regex)
   }
 
+  exec(string) {
+    if (string.length > 214) {
+      regex.lastIndex = 0
+      return null
+    }
+    return regex.exec(string)
+  }
+
   test(string) {
     if (string.length > 214) {
       return false
