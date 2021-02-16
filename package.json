@@ -25,6 +25,6 @@
     "test": "base test"
   },
   "devDependencies": {
-    "@dword-design/base": "^6.0.0"
+    "@dword-design/base": "^7.0.0"
   }
 }
