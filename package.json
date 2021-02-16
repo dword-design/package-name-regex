@@ -17,14 +17,18 @@
     "dist"
   ],
   "scripts": {
+    "check-unknown-files": "base check-unknown-files",
     "commit": "base commit",
-    "depgraph": "base depgraph",
+    "dev": "base dev",
+    "lint": "base lint",
     "prepare": "base prepare",
     "prepublishOnly": "base prepublishOnly",
-    "release": "base release",
     "test": "base test"
   },
   "devDependencies": {
     "@dword-design/base": "^7.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
