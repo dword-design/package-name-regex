@@ -1026,9 +1026,9 @@
     fs-extra "^9.0.0"
 
 "@dword-design/base@^7.0.0":
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/@dword-design/base/-/base-7.0.2.tgz#67f37e27355b3b3c4a4a4280129dc88d5dce87f7"
-  integrity sha512-mZAMmYKSv7+406p6kS37MASQDtqWvTfm3/mpXKOD24xOCnkP0rQfMXj59gUxo+rhTfZF6BvA1Z8l6i1MnDyh9g==
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/@dword-design/base/-/base-7.0.3.tgz#5088d806c68b2a26f05fab765b2b276d6e4720e8"
+  integrity sha512-LpZS6Yim1vB8fkgFpdWmfOO10BFNA5eHzJeite6VQY4Czx7j/zVUdzWlUzeH9LSiWZVgTfuA05c6lkYk3oCZdw==
   dependencies:
     "@babel/core" "^7.6.4"
     "@babel/register" "^7.6.2"
@@ -1080,9 +1080,9 @@
     yaml "^1.8.2"
 
 "@dword-design/ci@^1.0.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@dword-design/ci/-/ci-1.1.1.tgz#c3ca85be6524254eb20ba8898cb156ae61be4133"
-  integrity sha512-hvAai6CUH2GVvu4AL/FPql/cZZc2dIks0tLzH6RmmzClDDjLQ15ECXLPAmkgiuOqBwBFt+g762Wvglai7ThdeQ==
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@dword-design/ci/-/ci-1.1.2.tgz#26403b1d7e2f626ef906f5cfdc5662ab68cf9775"
+  integrity sha512-HbAvm3ZTDCdUMUYIHd/bqDUN5jT+cxvUmAwdPp93S+mOVkJ0dajsmWeVmvDZ6qLVvL5uAsCGQ7cVaerjDjlB+A==
   dependencies:
     "@dword-design/functions" "^2.7.2"
     coveralls "^3.1.0"
@@ -6876,9 +6876,9 @@ package-json@^4.0.0:
     semver "^5.1.0"
 
 package-name-regex@^1.0.5:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/package-name-regex/-/package-name-regex-1.0.8.tgz#4b8388cace6cc415f462ab4a269583d9a2d9f131"
-  integrity sha512-g3vB2J62dLqf4m50VM4tJUC4sixw3JB+Igd0cF3P/gJhAvmvsmFEV2eWZTeLbwfkKEWTf3+gwQ2C6JFFRxWHEQ==
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/package-name-regex/-/package-name-regex-1.0.9.tgz#d7d33ff3f2ef43a28fbb02aa4fcf48fc1ab26588"
+  integrity sha512-+U2oQCfEz2IlGqws8gmfKzdMDbSd6+RZp6UIFdKo+GAw3+o+kfnsgXkWtJ1JMoKhpP2kEvuYyTy1lXOEQEe0ZA==
 
 pacote@^9.1.0, pacote@^9.5.12, pacote@^9.5.3:
   version "9.5.12"
