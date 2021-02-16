@@ -9,7 +9,6 @@ export default {
     expect(regex.test('period.js')).toBeTruthy()
     expect(regex.test('123numeric')).toBeTruthy()
     expect(regex.test('@npm/thingy')).toBeTruthy()
-
     expect(regex.test('crazy!')).toBeFalsy()
     expect(regex.test('@npm-zors/money!time.js')).toBeFalsy()
     expect(regex.test('')).toBeFalsy()
