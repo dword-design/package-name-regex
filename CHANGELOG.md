@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/dword-design/package-name-regex/compare/v1.0.11...v1.0.12) (2021-03-31)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#30](https://github.com/dword-design/package-name-regex/issues/30)) ([ccc06f1](https://github.com/dword-design/package-name-regex/commit/ccc06f1d418e423f2f00776059c691d3d494dd36))
+
 ## [1.0.11](https://github.com/dword-design/package-name-regex/compare/v1.0.10...v1.0.11) (2021-03-23)
 
 
