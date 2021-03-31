@@ -79,7 +79,7 @@ packageNameRegex.test('@npm-zors/money!time.js') // false
 <!-- LICENSE/ -->
 ## Contribute
 
-Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/package-name-regex/issues) or [pull request](https://github.com/dword-design/package-name-regex/pulls)! ⚙️
+Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/package-name-regex/issues) or a [pull request](https://github.com/dword-design/package-name-regex/pulls)! ⚙️
 
 ## Support
 
