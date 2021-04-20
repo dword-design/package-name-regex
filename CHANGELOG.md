@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/dword-design/package-name-regex/compare/v1.0.13...v1.0.14) (2021-04-20)
+
+
+### Bug Fixes
+
+* updated package.json[keywords] ([#35](https://github.com/dword-design/package-name-regex/issues/35)) ([2b91a95](https://github.com/dword-design/package-name-regex/commit/2b91a95fb94c8f057abdc0c24614004c6d9882be))
+
 ## [1.0.13](https://github.com/dword-design/package-name-regex/compare/v1.0.12...v1.0.13) (2021-04-12)
 
 
