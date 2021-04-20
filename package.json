@@ -3,9 +3,11 @@
   "version": "1.0.13",
   "description": "Provides a regex that can be used to test if a string is a valid NPM package name.",
   "keywords": [
+    "match",
     "name",
     "package",
     "regex",
+    "regexp",
     "test",
     "validate"
   ],
