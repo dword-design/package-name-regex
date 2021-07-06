@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/dword-design/package-name-regex/compare/v2.0.2...v2.0.3) (2021-07-06)
+
+
+### Bug Fixes
+
+* update config files ([84cdc2c](https://github.com/dword-design/package-name-regex/commit/84cdc2c177146bf1b843a05e403b621e9aa8bbd2))
+
 ## [2.0.2](https://github.com/dword-design/package-name-regex/compare/v2.0.1...v2.0.2) (2021-06-14)
 
 
