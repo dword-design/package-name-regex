@@ -3,7 +3,7 @@
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
-  <p>
+<p>
     <a href="https://npmjs.org/package/package-name-regex">
       <img
         src="https://img.shields.io/npm/v/package-name-regex.svg"
