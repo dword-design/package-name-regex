@@ -1,6 +1,6 @@
 {
   "name": "package-name-regex",
-  "version": "2.0.6",
+  "version": "3.0.0",
   "description": "Provides a regex that can be used to test if a string is a valid NPM package name.",
   "keywords": [
     "match",

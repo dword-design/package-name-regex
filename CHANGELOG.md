@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dword-design/package-name-regex/compare/v2.0.6...v3.0.0) (2023-04-09)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#94](https://github.com/dword-design/package-name-regex/issues/94)) ([425a351](https://github.com/dword-design/package-name-regex/commit/425a351fbdfbb414a3530ff4c3ef14f3220557bc))
+
+
+### BREAKING CHANGES
+
+* drop node 12 support, move to esm
+
 ## [2.0.6](https://github.com/dword-design/package-name-regex/compare/v2.0.5...v2.0.6) (2022-01-12)
 
 
