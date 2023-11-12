@@ -17,8 +17,10 @@
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
   "type": "module",
   "main": "dist/index.js",
+  "types": "src/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "scripts": {
     "checkUnknownFiles": "base checkUnknownFiles",
