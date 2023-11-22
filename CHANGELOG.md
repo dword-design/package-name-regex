@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/dword-design/package-name-regex/compare/v3.0.0...v3.1.0) (2023-11-22)
+
+
+### Features
+
+* Add typescript types ([#102](https://github.com/dword-design/package-name-regex/issues/102)) ([82cc518](https://github.com/dword-design/package-name-regex/commit/82cc5180dab934c13d156c5b64260d38b6309b10))
+
 # [3.0.0](https://github.com/dword-design/package-name-regex/compare/v2.0.6...v3.0.0) (2023-04-09)
 
 
