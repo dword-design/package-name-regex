@@ -20,7 +20,6 @@
   "types": "types.d.ts",
   "files": [
     "dist",
-    "src",
     "types.d.ts"
   ],
   "scripts": {
