@@ -69,7 +69,8 @@ $ yarn add package-name-regex
 ## Usage
 
 ```js
-const packageNameRegex = require('package-name-regex')
+import packageNameRegex from 'package-name-regex'
+// or import { packageNameRegex } from 'package-name-regex'
 
 packageNameRegex.test('some-package') // true
 packageNameRegex.test('example.com') // true
