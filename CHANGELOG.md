@@ -1,3 +1,12 @@
+## [3.1.1](https://github.com/dword-design/package-name-regex/compare/v3.1.0...v3.1.1) (2023-11-23)
+
+
+### Bug Fixes
+
+* add named export ([#103](https://github.com/dword-design/package-name-regex/issues/103)) ([2fab530](https://github.com/dword-design/package-name-regex/commit/2fab5302037c457a872a9abe936c5c33c1eb266d))
+* update readme ([3dbb5d1](https://github.com/dword-design/package-name-regex/commit/3dbb5d14b2fb55b4c0d31718e83b07827c5c5456))
+* update README.md ([a8cfbb0](https://github.com/dword-design/package-name-regex/commit/a8cfbb058e9f7bb8d80207481fbaf02b2bd1ccc6))
+
 # [3.1.0](https://github.com/dword-design/package-name-regex/compare/v3.0.0...v3.1.0) (2023-11-22)
 
 
