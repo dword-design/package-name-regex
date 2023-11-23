@@ -1,2 +1,2 @@
-declare const _default: RegExp;
-export default _default;
+export declare const packageNameRegex: RegExp;
+export default packageNameRegex;
