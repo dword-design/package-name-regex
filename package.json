@@ -16,6 +16,7 @@
   "license": "MIT",
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
   "type": "module",
+  "exports": "./dist/index.js",
   "main": "dist/index.js",
   "types": "types.d.ts",
   "files": [
@@ -33,10 +34,10 @@
     "test": "base test"
   },
   "devDependencies": {
-    "@dword-design/base": "^9.5.7"
+    "@dword-design/base": "^11.0.6"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=18"
   },
   "publishConfig": {
     "access": "public"
