@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/dword-design/package-name-regex/compare/v3.1.1...v4.0.0) (2024-03-04)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#99](https://github.com/dword-design/package-name-regex/issues/99)) ([1bf5056](https://github.com/dword-design/package-name-regex/commit/1bf5056a5f3e2eefb3532ec07363bc15128538cb))
+
+
+### BREAKING CHANGES
+
+* node.js >= 18
+
 ## [3.1.1](https://github.com/dword-design/package-name-regex/compare/v3.1.0...v3.1.1) (2023-11-23)
 
 
