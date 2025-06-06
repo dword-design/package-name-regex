@@ -2,6 +2,8 @@
 /.env.json
 /.nyc_output
 /.test.env.json
+/babel.config.json
 /coverage
 /dist
 /node_modules
+/test-results

@@ -19,10 +19,9 @@
     ".vscode": true,
     "CHANGELOG.md": true,
     "LICENSE.md": true,
-    "babel.config.json": true,
     "coverage": true,
     "dist": true,
-    "eslint.config.js": true,
+    "eslint.config.ts": true,
     "node_modules": true,
     "pnpm-lock.yaml": true
   },
