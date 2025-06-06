@@ -1,3 +1,11 @@
+## [4.0.2](https://github.com/dword-design/package-name-regex/compare/v4.0.1...v4.0.2) (2025-06-06)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#109](https://github.com/dword-design/package-name-regex/issues/109)) ([52b2c6f](https://github.com/dword-design/package-name-regex/commit/52b2c6f5dd75fdfee9ecacd5e418279bfba087ec))
+* update pnpm to v10.11.1 ([#110](https://github.com/dword-design/package-name-regex/issues/110)) ([d725135](https://github.com/dword-design/package-name-regex/commit/d7251353ca0a08e1e276efe950cf567af72af699))
+
 ## [4.0.1](https://github.com/dword-design/package-name-regex/compare/v4.0.0...v4.0.1) (2025-05-27)
 
 
