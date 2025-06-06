@@ -1,0 +1,6 @@
+{
+  "depcheckConfig": {
+    "ignoreMatches": ["playwright"]
+  },
+  "name": "@dword-design/node"
+}
