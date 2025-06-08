@@ -1,3 +1,10 @@
+## [4.0.3](https://github.com/dword-design/package-name-regex/compare/v4.0.2...v4.0.3) (2025-06-08)
+
+
+### Bug Fixes
+
+* update pnpm to v10.12.1 ([#114](https://github.com/dword-design/package-name-regex/issues/114)) ([28534c2](https://github.com/dword-design/package-name-regex/commit/28534c201701a0bf99ba2a9184478db967d91301))
+
 ## [4.0.2](https://github.com/dword-design/package-name-regex/compare/v4.0.1...v4.0.2) (2025-06-06)
 
 
