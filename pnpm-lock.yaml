@@ -207,6 +207,7 @@ packages:
   '@dword-design/defu@1.0.0':
     resolution: {integrity: sha512-TSeItFcOEB9xUlw745+l9M+uU9bn6SaOH2q4uy2IFtmHbPYzLHsFEaaBvScD1XqKnxVyqOK4UtnFibv8Ja1ffA==}
     engines: {node: '>=18'}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   '@dword-design/depcheck-parser-sass@4.0.4':
     resolution: {integrity: sha512-liMT6tgQ/YfhNgW6rigOaY0XqfNMMFb+DCwEeLtfBdTJhMUEHwBb8UsChw8uwrxMSQW/YsabfnDsT897pBmBlg==}
