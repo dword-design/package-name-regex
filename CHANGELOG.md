@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/dword-design/package-name-regex/compare/v4.0.3...v5.0.0) (2026-01-02)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v16 ([#123](https://github.com/dword-design/package-name-regex/issues/123)) ([5044b6b](https://github.com/dword-design/package-name-regex/commit/5044b6b310569c0de28b6004b3521764b9003947))
+
+
+### BREAKING CHANGES
+
+* node.js >= 22
+
 ## [4.0.3](https://github.com/dword-design/package-name-regex/compare/v4.0.2...v4.0.3) (2025-06-08)
 
 
